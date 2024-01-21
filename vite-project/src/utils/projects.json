@@ -1,0 +1,33 @@
+ [
+  {
+    "title": "TheTechbloggl",
+    "description": "used sql to create ggldesign_db database with three tables: Department, Role and Employee to interact with information stored in the database interfacing with CMS Content Management System at the command line using node.js, inquirer and MYSQL.",
+    "image": "TTBLogin.png",
+    "repo": "https://github.com/GonzaloGodinez/TheTechbloggl",
+    "deploy": "https://thetechbloggl-2fedddb9c7c5.herokuapp.com/"
+  },
+  {
+    "title": "nosql",
+    "description": "using java and sql",
+    "image": "https://github.com/GonzaloGodinez/sqlggleng/blob/main/assets/video-sample.png",
+    "repo": "repo link",
+    "deploy": "deployed link"
+  },
+  {
+    "title": "sqlggleng",
+    "description": "using sql to create ggldesign_db database with three tables: Department, Role and Employee to interact with information stored in the database interfacing with CMS Content Management System at the command line using node.js, inquirer and MYSQL.",
+    "image": "https://github.com/GonzaloGodinez/sqlggleng/blob/main/assets/video-sample.png",
+    "repo": "https://github.com/GonzaloGodinez/sqlggleng",
+    "deploy": "https://app.screencastify.com/v3/watch/QAEHQ2GqW9hoWa1PmfPo"
+  },
+  {
+    "title": "Weather Forecast",
+    "description": "Weather 5 day Forecast project to show case HTML, CSS, Java Scripts and server side APIS as HTML CSS Full Stack Front End Web Developer.",
+    "image": "src=https://github.com/GonzaloGodinez/sqlggleng/blob/main/assets/video-sample.png",
+    "repo": "https://github.com/GonzaloGodinez/ServerSideAPIs",
+    "deploy": "https://gonzalogodinez.github.io/ServerSideAPIs/"
+  }
+]
+
+
+
