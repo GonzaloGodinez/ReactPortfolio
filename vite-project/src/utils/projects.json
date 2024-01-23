@@ -1,31 +1,31 @@
  [
   {
-    "title": "TheTechbloggl",
-    "description": "used sql to create ggldesign_db database with three tables: Department, Role and Employee to interact with information stored in the database interfacing with CMS Content Management System at the command line using node.js, inquirer and MYSQL.",
-    "image": "TTBLogin.png",
-    "repo": "https://github.com/GonzaloGodinez/TheTechbloggl",
-    "deploy": "https://thetechbloggl-2fedddb9c7c5.herokuapp.com/"
+    "title": "Weather Forecast",
+    "description": "The Weather 5 day Forecast project is to show case HTML, CSS, Java Scripts and server side APIS as HTML CSS Full Stack Front End Web Developer. This project emphasis the architecture of a Weather Webpage on any web page using aligned boxes in columns, rows and UI bar tabs to navigate throughout the headers, main content, sections, elements, images, and sections of the weather app.", 
+    "image": "5Day_Weather.png",
+    "repo": "https://github.com/GonzaloGodinez/ServerSideAPIs",
+    "deploy": "https://gonzalogodinez.github.io/ServerSideAPIs/"
   },
   {
     "title": "nosql",
     "description": "using java and sql",
     "image": "https://github.com/GonzaloGodinez/sqlggleng/blob/main/assets/video-sample.png",
     "repo": "repo link",
-    "deploy": "deployed link"
+    "deploy": "View Deployed App"
   },
   {
     "title": "sqlggleng",
     "description": "using sql to create ggldesign_db database with three tables: Department, Role and Employee to interact with information stored in the database interfacing with CMS Content Management System at the command line using node.js, inquirer and MYSQL.",
-    "image": "https://github.com/GonzaloGodinez/sqlggleng/blob/main/assets/video-sample.png",
+    "image": "NoSQL.png",
     "repo": "https://github.com/GonzaloGodinez/sqlggleng",
     "deploy": "https://app.screencastify.com/v3/watch/QAEHQ2GqW9hoWa1PmfPo"
   },
   {
-    "title": "Weather Forecast",
-    "description": "Weather 5 day Forecast project to show case HTML, CSS, Java Scripts and server side APIS as HTML CSS Full Stack Front End Web Developer.",
-    "image": "src=https://github.com/GonzaloGodinez/sqlggleng/blob/main/assets/video-sample.png",
-    "repo": "https://github.com/GonzaloGodinez/ServerSideAPIs",
-    "deploy": "https://gonzalogodinez.github.io/ServerSideAPIs/"
+    "title": "TheTechbloggl",
+    "description": "I created this project using handlebars and ORM to build the back end for a blogger_db database with three tables: Comments, Post, and User using Express.js API to interact with information stored in the database interfacing with handlebars as the front end to create, update and delete blogger model tables.",
+    "image": "TTBSignup.png",
+    "repo": "https://github.com/GonzaloGodinez/TheTechbloggl",
+    "deploy": "https://thetechbloggl-2fedddb9c7c5.herokuapp.com/"
   }
 ]
 
