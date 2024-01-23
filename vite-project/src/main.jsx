@@ -24,6 +24,7 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
+        // h1: <Gonzalo Godinez Luna/>,
         element: <HomePage />,
       },
       {

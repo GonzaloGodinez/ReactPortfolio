@@ -14,8 +14,8 @@ export default function ProjectPage() {
             <div className="card-body">
               <h5 className="card-title">{project.title}</h5>
               <p className="card-text">{project.description}</p>
-              <a href= {project.repo} className="btn btn-primary me-3">GitHUb</a>
-              <a href= {project.deploy} className="btn btn-primary me-3">deployed demo</a>
+              <a href= {project.repo} className="btn btn-primary me-3">View GitHub Repo</a>
+              <a href= {project.deploy} className="btn btn-primary me-3">View Deployed App</a>
             </div>
         </div>
       ))}
