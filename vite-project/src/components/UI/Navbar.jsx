@@ -1,7 +1,10 @@
 export default function Nav({ links }) {
   return (
+    <>
+    <a class="navbar-brand text-left w-100 bg-tertiary" href="#">Gonzalo Godinez-Luna</a>
     <nav className="navbar navbar-expand-lg bg-secondary">
       <div className="container-fluid">
+      
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             {links.map((link) => link)}
@@ -9,5 +12,6 @@ export default function Nav({ links }) {
         </div>
       </div>
     </nav>
+    </>
   );
 }
