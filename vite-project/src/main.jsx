@@ -14,6 +14,7 @@ import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import ContactPage from './pages/ContactPage.jsx';
 import ProjectPage from './pages/ProjectPage.jsx';
+import ResumePage from './pages/ResumePage.jsx';
 
 // Define the accessible routes, and which components respond to which URL
 const router = createBrowserRouter([
@@ -38,6 +39,10 @@ const router = createBrowserRouter([
       {
         path: 'about',
         element: <AboutPage />,
+      },
+      {
+        path: 'resume',
+        element: <ResumePage />,
       },
     ],
   },

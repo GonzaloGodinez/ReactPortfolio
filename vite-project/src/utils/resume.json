@@ -1,0 +1,15 @@
+ [
+  {
+    "frontend": "Front-end Skills",
+    "skills": "HTML, CSS, Java Scripts, Jquery, responsive design, React, Bootsrap. ",
+    "download": "GonzaloGodinezResume.pdf"
+  },
+  {
+    "frontend": "Back-end Skills",
+    "skills": "APIS, Mode, Express, MySQL, Sequelize, MongoDB, Mongoose, REST, GraphQL",
+    "download": "GonzaloGodinezResume.pdf"
+  }
+]
+
+
+

@@ -1,7 +1,7 @@
 export default function Nav({ links }) {
   return (
     <>
-    <a class="navbar-brand text-left w-100 bg-tertiary" href="#">Gonzalo Godinez-Luna</a>
+    <a className="navbar-brand text-left w-100 bg-tertiary" href="#">Gonzalo Godinez-Luna</a>
     <nav className="navbar navbar-expand-lg bg-secondary">
       <div className="container-fluid">
       

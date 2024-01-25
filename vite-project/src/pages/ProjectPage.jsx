@@ -7,7 +7,25 @@ export default function ProjectPage() {
   // Iterate over each mock user to display their abridged profile data and a link to their page
   return (
     <div className="container pt-4">
-      look into bootstraps find a card on the website
+      <p>
+        WHEN I am presented with the Portfolio section
+        THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repository
+        Web dev Applications:
+        Blogger Database
+        https://github.com/GonzaloGodinez/TheTechbloggl
+        Ecommerce
+        Weather Forecast Server-Side API
+        https://gonzalogodinez.github.io/ServerSideAPIs/
+        SQL DB https://gsgges-p2-01b3ebe075ed.herokuapp.com/
+        Group Projects
+        What is in your Pantry
+        https://ltrokey.github.io/c7_recipe_builder/index.html
+        Library Management System
+        https://gsgges-p2-01b3ebe075ed.herokuapp.com/
+
+        look into bootstraps find a card on the website
+      </p>
+     
       {projectsArray.map(project => (
         <div className="card mb-3">
           <img src={project.image} className="card-img-top w-75" alt="..." />
