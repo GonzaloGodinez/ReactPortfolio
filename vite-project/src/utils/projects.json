@@ -1,17 +1,17 @@
  [
   {
-    "title": "Weather Forecast",
+    "title": "Weather Forecast Server-Side API",
     "description": "The Weather 5 day Forecast project is to show case HTML, CSS, Java Scripts and server side APIS as HTML CSS Full Stack Front End Web Developer. This project emphasis the architecture of a Weather Webpage on any web page using aligned boxes in columns, rows and UI bar tabs to navigate throughout the headers, main content, sections, elements, images, and sections of the weather app.", 
     "image": "5Day_Weather.png",
     "repo": "https://github.com/GonzaloGodinez/ServerSideAPIs",
     "deploy": "https://gonzalogodinez.github.io/ServerSideAPIs/"
   },
   {
-    "title": "nosql",
-    "description": "using java and sql",
-    "image": "https://github.com/GonzaloGodinez/sqlggleng/blob/main/assets/video-sample.png",
-    "repo": "repo link",
-    "deploy": "View Deployed App"
+    "title": "e-ccommerce-ggl",
+    "description": " created this project using ORM to build the back end for an e-ccommerce_db database with four model tables: Category, Product, ProductTag and Tag using Express.js API to interact with information stored in the database interfacing with imsomnia to create, update and delete model tables.",
+    "image": "Eccom.png",
+    "repo": "https://github.com/GonzaloGodinez/e-ccommerce-ggl",
+    "deploy": "https://drive.google.com/file/d/1OM7xhKhyLbAbut1lgRSzzJpV1bOsHBXq/view"
   },
   {
     "title": "sqlggleng",
@@ -21,11 +21,25 @@
     "deploy": "https://app.screencastify.com/v3/watch/QAEHQ2GqW9hoWa1PmfPo"
   },
   {
-    "title": "TheTechbloggl",
+    "title": "The Techbloggl - Blogger Database",
     "description": "I created this project using handlebars and ORM to build the back end for a blogger_db database with three tables: Comments, Post, and User using Express.js API to interact with information stored in the database interfacing with handlebars as the front end to create, update and delete blogger model tables.",
     "image": "TTBSignup.png",
     "repo": "https://github.com/GonzaloGodinez/TheTechbloggl",
     "deploy": "https://thetechbloggl-2fedddb9c7c5.herokuapp.com/"
+  },
+  {
+    "title": "Group Project - What is in your Pantry",
+    "description": "We created What's in Your Pantry? with a simple but powerful motivation, to make cooking at home more enjoyable, accessible, and nutritious for everyone. We understand the challenges of meal planning and the desire for variety in your diet. Our app empowers you to make informed choices by offering comprehensive nutrition information, helping you maintain a healthy lifestyle.",
+    "image": "c7_recipe_builder.png",
+    "repo": "https://github.com/ltrokey/c7_recipe_builder",
+    "deploy": "https://ltrokey.github.io/c7_recipe_builder/index.html"
+  },
+  {
+    "title": "Group Project - Library Management System",
+    "description": "We created our full stack app using on the back end using servers, MYSQL JAWS, ORM, ADVANCE API's, and user authentication on the from end using MVC and handlebars, stored our project code in GitHub, managing our project utiliziging Git hub branches and pull requests. We implemented GET and POSTS for retrieving and adding data.",
+    "image": "library-manag-syst.png",
+    "repo": "https://github.com/GonzaloGodinez/GSGGES-P2",
+    "deploy": "https://gsgges-p2-01b3ebe075ed.herokuapp.com/"
   }
 ]
 
