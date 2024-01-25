@@ -8,18 +8,6 @@ export default function ProjectPage() {
   return (
     <div className="container pt-4">
       <p>
-        Blogger Database
-        https://github.com/GonzaloGodinez/TheTechbloggl
-        Ecommerce
-        Weather Forecast Server-Side API
-        https://gonzalogodinez.github.io/ServerSideAPIs/
-        SQL DB https://gsgges-p2-01b3ebe075ed.herokuapp.com/
-        Group Projects
-        What is in your Pantry
-        https://ltrokey.github.io/c7_recipe_builder/index.html
-        Library Management System
-        https://gsgges-p2-01b3ebe075ed.herokuapp.com/
-
       </p>
      
       {projectsArray.map(project => (
