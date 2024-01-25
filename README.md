@@ -1,32 +1,13 @@
 # ReactPortfolio
 
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-
 ## link to Portfolio Repo
 [link to GGL repository url github](https://github.com/GonzaloGodinez/reactportfolio)
 
-## link to Heroku
-- [link to Heroku](https://ggl-texteditor-23f5063fdfe4.herokuapp.com/)
-
-## link to Deploy Group Projects
-[linnk to Deploy c7_recipe_builder](https://ltrokey.github.io/c7_recipe_builder/index.html)
-[Library Management System](https://github.com/GonzaloGodinez/gsgges-p2)
-
-## link to Heroku Projects
-- [link to deploy library Management System](https://gsgges-p2-01b3ebe075ed.herokuapp.com/)
+## link to Netlify
+- [link to Netlify](https://gglportfolio.netlify.app/)
 
 ## Description
-As a Developer, I created this project to show case for my skills by introducing my work as HTML CSS Full Stack Front End Web Developer.
-
-This project emphasis the use of the architecture of any web page using aligned boxes in columns, rows and UI bar tabs to navigate throughout the headers, footers, main content, sections, elements, images, and sections of my profile and my work.
+As a Developer, I created this project to show case for my skills by introducing my work as Full Stack Front End Web Developer using on the front end the following Skills: HTML, CSS, Java Scripts, Jquery, responsive design, React, Bootsrap, and on the Back-end Skills: APIS, Mode, Express, MySQL, Sequelize, MongoDB, Mongoose, REST, GraphQL.
 
 ## Table of Contents
 
@@ -42,7 +23,7 @@ This project emphasis the use of the architecture of any web page using aligned 
 4.	Open using text editor, for VS Code, 
 5.  At the command line type run npm i 
 6.  At the command line type npm run start
-7.  Run `npm dev`/`npm run dev` and navigate to the prompted URL to see your app.
+7.  Run `npm start and navigate to the prompted URL to see your app.
 8.	Application will start in the browser on the local host http://localhost:3000/
 
 ## Usage
@@ -53,9 +34,6 @@ Creates a portfolio show casting group and individual projects
 ![Main page ](./Assets/Mainpage.png)
 ![What is in your pantry](./Assets/c7_recipe_builder.png)
 ![ibrary Management System](./Assets/library-manag-syst.png)
-
-
-
 
 ## License
 MIT License

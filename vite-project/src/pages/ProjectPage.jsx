@@ -8,9 +8,6 @@ export default function ProjectPage() {
   return (
     <div className="container pt-4">
       <p>
-        WHEN I am presented with the Portfolio section
-        THEN I see titled images of six of the developer’s applications with links to both the deployed applications and the corresponding GitHub repository
-        Web dev Applications:
         Blogger Database
         https://github.com/GonzaloGodinez/TheTechbloggl
         Ecommerce
@@ -23,7 +20,6 @@ export default function ProjectPage() {
         Library Management System
         https://gsgges-p2-01b3ebe075ed.herokuapp.com/
 
-        look into bootstraps find a card on the website
       </p>
      
       {projectsArray.map(project => (

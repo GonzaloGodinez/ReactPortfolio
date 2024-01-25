@@ -1,4 +1,4 @@
-// This is a static page mocking an "About Us" section for our fake user data
+// This is a static page "About Us" section
 export default function AboutPage() {
   return (
     <div className="container pt-4">
@@ -13,7 +13,7 @@ export default function AboutPage() {
                 <div className="features-icons-icon d-flex">
                   <i className="bi-window m-auto text-primary" />
                 </div>
-                <h3>Bio Quality Control Analyst</h3>
+                <h3>Quality Control Analyst</h3>
                 <p className="lead mb-0">
                   Quality Control Analyst with experience quickly identifying quality problems and recommending solutions. Strengths in identifying and troubleshooting problems. Key skills include:
                 </p>

@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 // Bringing in the required component from 'react-router-dom' for linking between pages
 
 export default function ContactPage() {
-  // Prior to the return statement, our homepage uses a few react hooks and fetchData function to query to a mock database and retrieve random user data
+  // data entry for name, email and message
   function handleEmail() {
     const floatingName = document.getElementById("floatingName").value
     const floatingEmail = document.getElementById("floatingEmail").value
@@ -10,18 +10,10 @@ export default function ContactPage() {
     window.location.href = `mailto:Gonzalo.Godinez@comcast.net?subject=${floatingName}&body=${floatingMessage}`
   }
 
-  // Iterate over each mock user to display their abridged profile data and a link to their page
+  // created a form
   return (
     <div className="container pt-4 w-25">
       <p>
-        WHEN I am presented with the Contact section
-        THEN I see a contact form with fields for a name, an email address, and a message
-        WHEN I move my cursor out of one of the form fields without entering text
-        THEN I receive a notification that this field is required
-        WHEN I enter text into the email address field
-        THEN I receive a notification if I have entered an invalid email address
-
-        I need to add an error logic for above
       </p>
       <div class="form-floating my-3">
         <textarea class="form-control" placeholder="Leave a comment here" id="floatingName"></textarea>
