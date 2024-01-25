@@ -31,9 +31,9 @@ Creates a portfolio show casting group and individual projects
 
 ## Samples
 
-![Main page ](./Assets/Mainpage.png)
-![What is in your pantry](./Assets/c7_recipe_builder.png)
-![ibrary Management System](./Assets/library-manag-syst.png)
+![Main page ](./vite-project/public/HomePg.png)
+![What is in your pantry](./vite-project/public/c7_recipe_builder.png)
+![Library Management System](./vite-project/public/library-manag-syst.png)
 
 ## License
 MIT License
