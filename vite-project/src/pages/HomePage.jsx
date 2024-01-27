@@ -11,7 +11,7 @@ export default function HomePage() {
       <header>Quality Control Analyst</header>
       <div>
         <div>
-          <img src={"./GGL-React-Port.jpg"} className="card-img-top w-25" alt="..." />
+          <img src={"./GGL-React-Port.jpg"} className="card-img-top w-25" style={{height: "500"}} alt="..." />
         </div>
         <div>
           With experience quickly identifying quality problems and recommending solutions. Strengths in identifying and troubleshooting problems. Key skills include:
