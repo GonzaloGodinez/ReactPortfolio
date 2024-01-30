@@ -45,10 +45,6 @@ const router = createBrowserRouter([
         path: 'resume',
         element: <ResumePage />,
       },
-    //  {
-    //    path: 'footer',
-    //    element: <FooterPage />,
-    //  },
     ],
   },
 ]);
